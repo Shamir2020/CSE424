@@ -1,0 +1,36 @@
+Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
+https://www.overleaf.com/3164513294wfpkwgczbntm#bf68c5
+
+Unlisted YouTube video:
+http://youtube....
+
+Conference submitted paper / paper submission / login Link:
+https://easy....
+
+Paper title:
+Prediction of players prices in IPL using machine learning algorithms
+
+
+Paper presentation (anyone can view without login):
+http://slides.google.com/
+
+Paper submission date (to workshop/conference):
+NA
+
+Paper submission ID: (received) from conference/workshop
+1341234
+
+Conference Name:
+2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
+
+Conference URL:
+http://confsite/...
+
+Group Number:
+22A
+
+Group Members:
+20241015 Shamir Roy
+23341063 Abid Rehman Rafi ,
+Insaf Ali Mia 23241046,
+Rudra Saha 19301104

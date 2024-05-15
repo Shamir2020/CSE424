@@ -2,10 +2,10 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/3164513294wfpkwgczbntm#bf68c5
 
 Link to unlisted YouTube video:
-https://youtu.be/79U99V4lkfw
+https://youtu.be/dUFR1XPc8DM
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1vX3Hz69AUmC0yxDgtZcElgkJ1aHAjCVQrrbXjlAtV7E/edit?usp=sharing
+https://docs.google.com/presentation/d/1d3GGbqCQ46C2hhh9B8qwCCfoLVK1cUPX6HVEbKgnMJU/edit?usp=sharing
 
 Project title:
 Prediction of players prices in IPL using machine learning algorithms
