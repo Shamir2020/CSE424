@@ -2,29 +2,29 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/3164513294wfpkwgczbntm#bf68c5
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/zkmf-tiY3-g
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+NA
 
 Paper title:
 Prediction of players prices in IPL using machine learning algorithms
 
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/16x48K51BZ4VcPv5vpBTWdyevcP1VXMCqou6a7vKt5g4/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 NA
 
 Paper submission ID: (received) from conference/workshop
-1341234
+NA
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
+NA
 
 Conference URL:
-http://confsite/...
+NA
 
 Group Number:
 22A
